@@ -1,5 +1,5 @@
-<!-- # E-Commerce-Website
-### I have design an E-Commerce Website named E-Commerce. This project was build as a individual project in Masai School. 
+E-Commerce-Website
+### I have design an E-Commerce Website named Shopio. 
 
 # Features:-
 1. You will find latest products on this website.
@@ -8,8 +8,6 @@
 4. Users can read details of each product by clicking on product.
 5. Users can add products to the cart.
 6. Users have to fill address details for shipping.
-7. Users can pay money using a card as well as RazorPay.
-
 
 # Technologies that we used :-
 1. REACT
@@ -17,17 +15,12 @@
 3. Node.js
 4. Express.js
 5. MongoDB
-6. Material UI
+6. Java script
 
-## Contact
 
-Alok Kushwaha - [My Linkedin](https://www.linkedin.com/in/alok-kushwaha-02b6ba129/)
+Project Deployed Link - [Project Deployed Link](https://shopnow-aj.netlify.app/)
 
-Project Link - [Project Repo](https://github.com/Alok0818/E-Commerce-mern-website)
-
-Project Deployed Link - [Project Deployed Link](https://e-commerce-alokkushwaha.vercel.app/)
-
-# Glimpse of Our Work:-
+# Glimpse of My Work:-
 
 
 ## Register Page
@@ -54,7 +47,8 @@ On this page, users can see the trending products on the website.
 
 ### Footer 
 This is the footer of the website
-<img width="935" alt="image" src="https://user-images.githubusercontent.com/94324872/171923043-af363645-1218-4253-986b-578ad55411f8.png">
+![image](https://github.com/Amanjaiswal-20/Shopio/assets/98385761/2b091dd9-52c1-4270-b677-974d04ba88ac)
+
 
 
 ### Products Page
@@ -77,10 +71,7 @@ On this page users have to fill all the details for shipping purpose. Also, user
 
 <img width="938" alt="image" src="https://user-images.githubusercontent.com/94324872/171923916-9b0b9aab-9d19-4ab2-97cc-b963431cd98e.png">
 
-### RazorPay Payment 
-Users can pay money by filling card details or users can also use other payment option on payment gateway.
-<img width="934" alt="image" src="https://user-images.githubusercontent.com/94324872/171925227-a025dd87-75df-42d4-b00f-2e62cae574ae.png">
-<img width="941" alt="image" src="https://user-images.githubusercontent.com/94324872/171925382-a53a6c99-f0eb-4858-8051-e103c42cd2cd.png">
-<img width="956" alt="image" src="https://user-images.githubusercontent.com/94324872/171925804-35923a17-68d9-4034-ae73-e3c22e89e08c.png">
-.... 
- -->
+
+
+
+
